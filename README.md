@@ -1,4 +1,4 @@
-# Projeto-copy-copy
+# Programa artista-copy-copy
 Reprodução do jogo copy copy 
 // variaveis da boliha
 let xBolinha = 300;
